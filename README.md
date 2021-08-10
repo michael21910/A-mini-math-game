@@ -41,13 +41,13 @@ SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),FOREGROUND_INTENSITY|0x0
 ```
 This will change the text under this line of code, which can make the effect I want come true, feels good.  
   
-# Conclusion  
+# Others and contact  
   
 Like I mentioned in the front of this markdown file, this is my first time making a mini game.  
 I still have many shortcomings. However, you are welcome to download the exe file and play with it!  
 Looking forward for your feedback!
 
 I am not really good at English writing, please correct anytime!
-Thanks for your watching, have fun :D
+Thanks for watching, have fun :D
 
 Michael Hsueh 07/28/2021
